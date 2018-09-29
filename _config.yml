@@ -84,7 +84,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Singapore"
   employer         :
-  googlescholar    :""
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
