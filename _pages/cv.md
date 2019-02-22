@@ -16,7 +16,10 @@ Education
 
 Experience
 ======
-<p align="left">DAUIN(Prof. Andrea Calimera, Prof. Marco Vacca), Politechinico di Torino</p> <p align="right">Torino, Italy Jan. 2019 - Feb. 2019</p> 
+
+**DAUIN(Prof. Andrea Calimera, Prof. Marco Vacca), Politechinico di Torino**         
+
+Torino, Italy Jan. 2019 - Feb. 2019
 
 RESEARCHER
 * Optimize in-memory computing min-max circuit to higher frequencies.
