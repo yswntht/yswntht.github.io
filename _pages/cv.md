@@ -17,8 +17,7 @@ Education
 Experience
 ======
 
-**DAUIN(Prof. Andrea Calimera, Prof. Marco Vacca), Politechinico di Torino**         
-
+**DAUIN(Prof. Andrea Calimera, Prof. Marco Vacca), Politechinico di Torino** <br />        
 Torino, Italy Jan. 2019 - Feb. 2019
 
 RESEARCHER
