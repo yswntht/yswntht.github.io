@@ -25,3 +25,42 @@ RESEARCHER
 
   
 
+<meta charset='utf-8'>
+
+<div class="wrapper">
+
+<!-- Compilation Instructions
+pandoc \-\-columns=160 cv.md -s -c stylesheets/styles.css -o cv.html \-\-metadata pagetitle="Curriculum Vitae"
+pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
+-->
+
+<header>
+# Curriculum Vitae
+
+Nachiket Kapre
+Electrical and Computer Engineering <br>
+University of Waterloo<br>
+Canada <br>
+Email: nachiket at uwaterloo dot ca<br>
+</header>
+
+
+<section>
+## Education
+
+
+
+## Journal Publications
+
+[[PDF]](./publications/caffepresso_tecs2017.pdf)
+**CaffePresso: Accelerating Convolutional Networks on Embedded SoCs** <br>
+Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
+*ACM Transactions on Embedded Computing Systems* (Special Issue on ESWEEK 2016) <br>
+
+[[PDF]](./publications/hoplite_trets2017.pdf)
+**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
+<u>Nachiket Kapre</u>, Jan Gray <br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015) <br>
+
+</section>
+</div>
