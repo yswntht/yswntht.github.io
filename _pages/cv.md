@@ -23,6 +23,10 @@ RESEARCHER
 * Optimize in-memory computing min-max circuit to higher frequencies.
 * Implement and analyze the optimized structure with memory arrary and estimate the performance for memory sizes (1024, 2048, 4096, 8192,16384, 32768, 65536 rows).
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S0048969718339913" target="_blank" rel="noopener">
+  Journal
+</a>
   
 
 
