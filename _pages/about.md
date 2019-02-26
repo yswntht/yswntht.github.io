@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Electronics, Nanyang Technological University, Singapore 2017
-* B.Tech in Electronics and Communications, KLUniversity, India 2012
+* M.Sc. in Electronics, Nanyang Technological University, Singapore 
+* B.Tech in Electronics and Communications, KLUniversity, India
 
 Experience
 ======
