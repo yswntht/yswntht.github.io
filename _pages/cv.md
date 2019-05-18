@@ -18,8 +18,9 @@ Experience
 ======
 
 **Energy Research Instuite (Prof. Anupam), Nanyang Technological University**<br/>
-RESEARCH ASSOCIATE<br/>                                 
 Aug. 2018 - PRESENT<br/>
+RESEARCH ASSOCIATE<br/>                                 
+
 * To build simulation platform for autonomous vehicles for perception, decision making and actuation.
 * To use ROS, gazebo, RViz for vehicle movement, planning and localisation.
 * To create model of autonomous vehicle to support the above simulation platform.
@@ -27,8 +28,9 @@ Aug. 2018 - PRESENT<br/>
 * To build prevention for known security attacks on autonomous vehicles.
 
 **Instuite of Microelectronics(Dr. Do Anh Tuan), A*STAR**<br/>
-VISITNG RESEARCHER<br/>
 Aug. 2018 - PRESENT<br/>
+VISITNG RESEARCHER
+
 * Designed and implemented 3 stage pipelined memory controller to support in-memory computing in ReRAM crossbar.
 * Optimize the fitting parameters of ReRAM model to behave close to physical device.
 * Responsible for implementaion of schematic and layout of peripheral circuts.
