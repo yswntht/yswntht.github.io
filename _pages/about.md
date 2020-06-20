@@ -17,6 +17,6 @@ redirect_from:
 
 
 # Recent News
-* September 3, 2019. One paper accepted to NeurIPS 2019.
-* April 21, 2019. Three papers accepted to ICML 2019.
-* November 3, 2018. One paper accepted to AAAI 2019.
+* June, 2020. One journal accepted to IEEE Transactions on Intelligent Transportation Systems.
+* May, 2020. One workshop paper accepted AccML.
+* Feb, 2020. One journal accepted to Transactions on Compputers.
