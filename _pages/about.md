@@ -8,37 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Education
-======
-* M.Sc. in Electronics, Nanyang Technological University, Singapore 
-* B.Tech in Electronics and Communications, KLUniversity, India
-
-Experience
-======
-
-**DAUIN(Prof. Andrea Calimera, Prof. Marco Vacca), Politechinico di Torino**<br/>
-Torino, Italy Jan. 2019 - Feb. 2019<br/>
-RESEARCHER
-* Optimize in-memory computing min-max circuit to higher frequencies.
-* Implement and analyze the optimized structure with memory arrary and estimate the performance for memory sizes (1024, 2048, 4096, 8192,16384, 32768, 65536 rows).
+---
+permalink: /
+title: "Yaswanth Tavva"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
+# About Me
+
+* I am a Ph.D. student in the Computer Science Department at Natioanl University of Singapore, advised by Prof. Li-Shiuan Peh and Prof. Trevor. E Carlson.
+* My research interests secure architectures for IoT and Hyperformance systems, low-power systems, Networks-On-Chip, and hardware accelerators. 
+* I received my Masters Degree in Electronics from Nanyang Technological University.
 
 
-<i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Rebecca A. Bellmore, Jana E. Compton, J. Renee Brooks, Eric W. Fox, <strong>Ryan A. Hill</strong>, Dan J. Sobota, Darren J. Thornbrugh, Marc H. Weber</span>
-  (2018).
-  <em>Science of the Total Environment</em> 639: 1349-1359 <a href="https://doi.org/10.1016/j.scitotenv.2018.05.008" target="_blank">https://doi.org/10.1016/j.scitotenv.2018.05.008</a>.
-  
-  <p>
-
-<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal">
-  Low-power
-</button>
-
-<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal">
-  emerging technologies
-</button>
-
-</p>
+# Recent News
+* September 3, 2019. One paper accepted to NeurIPS 2019.
+* April 21, 2019. Three papers accepted to ICML 2019.
+* November 3, 2018. One paper accepted to AAAI 2019.
